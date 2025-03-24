@@ -1,6 +1,6 @@
-本项目用于采用LaTeX和overleaf撰写IEEE论文和中国自然科学基金。因为LaTeX中有大量格式需要调整，本项目覆盖了绝大多数需要调整的情况。但这并不表示完全不会报错，您可以求助chatGPT或deepseek来排查报错。overleaf是一个极好用的在线LaTeX编辑器，但近期用的多需要收费了（每月十几美金）。您可以酌情使用！
-
 This project is for writing IEEE papers and applications for the National Natural Science Foundation of China using LaTeX and Overleaf. Since LaTeX involves numerous formatting adjustments, this project covers the majority of required adjustments. However, this does not guarantee the absence of errors; you can seek assistance from chatGPT or deepseek to troubleshoot any issues. Overleaf is an extremely user-friendly online LaTeX editor, but recent usage may require a paid subscription (around ten to fifteen USD per month). Use it as per your discretion!
+
+本项目用于采用LaTeX和overleaf撰写IEEE论文和中国自然科学基金。因为LaTeX中有大量格式需要调整，本项目覆盖了绝大多数需要调整的情况。但这并不表示完全不会报错，您可以求助chatGPT或deepseek来排查报错。overleaf是一个极好用的在线LaTeX编辑器，但近期用的多需要收费了（每月十几美金）。您可以酌情使用！
 
 If you find this document helpful, please give it a star or cite our paper. Wishing you success in your paper submissions!
 
@@ -16,7 +16,9 @@ Each tutorial and code snippet included has been personally tested by me, and I 
 ## 1. National Natural Science Foundation LaTeX Template (Extremely Important, Based on 2025 Word Modification, Contact: cmm@nankai.edu.cn, Cheng Mingming, Nankai University)
 
 国家自然科学基金LaTex模版（极度重要，基于2025Word改造，可联系：cmm@nankai.edu.cn,南开大学程明明）
+
 In Overleaf's menu, select XeLaTeX as the compiler.
+
 overleaf中menu菜单，选择类型为Xelatex
 
 https://github.com/MCG-NKU/NSFC-LaTex
@@ -173,6 +175,7 @@ https://www.latex-tables.com/
 LaTeX在线表格(重要)
 
 https://www.tablesgenerator.com/
+
 Additional code required (auto-resize) -- \resizebox{\linewidth}{!}{
 
 其中需要增加代码（自动调节大小）--\resizebox{\linewidth}{!}{
